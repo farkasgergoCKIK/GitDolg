@@ -1,3 +1,4 @@
 Első commit (A1)
 Első commit (B1)
 Második commit (A3) (branch=fejlesztes)
+Harmadik commit (B5) (branch=fejlesztes)
